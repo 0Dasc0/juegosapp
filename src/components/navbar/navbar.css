@@ -1,0 +1,29 @@
+.navbar {
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 3%;
+    padding-left: 1%;
+}
+
+.titulonav {
+    font-family: monospace;
+    font-size: 30px;
+}
+
+.imagennav{
+    margin: 6px;
+}
+
+.navbl1 {
+    display: flex;
+    align-items: center;
+}
+
+.iniciar {
+    text-decoration: none;
+    color: #20c0d8;
+    font-family: monospace;
+    font-weight: bold;
+}
